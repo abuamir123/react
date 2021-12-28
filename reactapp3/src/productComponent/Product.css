@@ -1,0 +1,14 @@
+.Product .filterdiv h5
+{
+    cursor: pointer;
+}
+
+.Product .filterdiv h5:hover
+{
+    color:red;
+}
+h5{
+    border: 2px solid gray;
+    border-radius: 5px;
+  
+}
